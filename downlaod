@@ -11,6 +11,8 @@
  * @license    https://github.com/l1m3r/tapas.io-phpDLer/blob/master/LICENSE
  * @link       https://github.com/l1m3r/tapas.io-phpDLer
  */
+ 
+ C:\php\php.exe tapas.io_downloader.php -e 1123711 -p "D:\Web Comics\Erma"
 
 // Constants
 $baseULR='https://m.tapas.io/episode/';
